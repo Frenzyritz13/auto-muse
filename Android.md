@@ -5,7 +5,7 @@
   - Web Browsing Tracker
   - The Explorer 
 - While the project will initially just focus on the first part and if successful will extend it to the second. 
-- The Music Generator is supposed to generate background music based on the video that is put in and processed. It will generate a mood analysis based on the video and suggest how the communication material will vary according to the different apt choices available.
+- The Music Generator is supposed to generate background music based on the video that is put in and processed. It will generate a mood analysis based on the video and suggest how the communication material will vary according to the different apt choices available. 
 - The Web Browsing Tracker will help you control your browsing time on the web. This application can be built for Android as well as, as an extension for browsers on the web. It will undersatnd your browsing patterns and predict the time you spend on certain sites based on your browsing history. This can then be used to block websites to control browsing. 
 
 
